@@ -1,2 +1,2 @@
 platform :ios, '7.0'
-pod "AFNetworking", :git => 'https://github.com/AFNetworking/AFNetworking.git', :commit => '06cd44060dad161ded3646190a03bb6940039783'
+pod "AFNetworking", :git => 'https://github.com/AFNetworking/AFNetworking.git', :commit => '6ff88e9d9c248df4d4a1f8b423bbefdc12515f2c'

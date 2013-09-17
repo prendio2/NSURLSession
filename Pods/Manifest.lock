@@ -12,11 +12,11 @@ PODS:
   - AFNetworking/Serialization (2.0.0-RC3)
 
 DEPENDENCIES:
-  - AFNetworking (from `https://github.com/AFNetworking/AFNetworking.git`, commit `06cd44060dad161ded3646190a03bb6940039783`)
+  - AFNetworking (from `https://github.com/AFNetworking/AFNetworking.git`, commit `6ff88e9d9c248df4d4a1f8b423bbefdc12515f2c`)
 
 EXTERNAL SOURCES:
   AFNetworking:
-    :commit: 06cd44060dad161ded3646190a03bb6940039783
+    :commit: 6ff88e9d9c248df4d4a1f8b423bbefdc12515f2c
     :git: https://github.com/AFNetworking/AFNetworking.git
 
 SPEC CHECKSUMS:
