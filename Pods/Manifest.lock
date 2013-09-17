@@ -1,0 +1,25 @@
+PODS:
+  - AFNetworking (2.0.0-RC3):
+    - AFNetworking/Core
+  - AFNetworking/Core (2.0.0-RC3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLConnection (2.0.0-RC3)
+  - AFNetworking/Reachability (2.0.0-RC3)
+  - AFNetworking/Security (2.0.0-RC3)
+  - AFNetworking/Serialization (2.0.0-RC3)
+
+DEPENDENCIES:
+  - AFNetworking (from `https://github.com/AFNetworking/AFNetworking.git`, commit `06cd44060dad161ded3646190a03bb6940039783`)
+
+EXTERNAL SOURCES:
+  AFNetworking:
+    :commit: 06cd44060dad161ded3646190a03bb6940039783
+    :git: https://github.com/AFNetworking/AFNetworking.git
+
+SPEC CHECKSUMS:
+  AFNetworking: 2c32044b6aeb1f022e462bcb73cf6f2679f0d1ff
+
+COCOAPODS: 0.24.0
