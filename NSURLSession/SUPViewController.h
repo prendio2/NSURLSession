@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SUPViewController : UIViewController <NSURLSessionDownloadDelegate>
+@interface SUPViewController : UIViewController
 
 @end
